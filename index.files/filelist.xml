@@ -1,11 +1,13 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../index.htm"/>
+ <o:File HRef="item0001.xml"/>
+ <o:File HRef="props002.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.jpg"/>
  <o:File HRef="image002.jpg"/>
- <o:File HRef="image003.jpg"/>
- <o:File HRef="image004.jpg"/>
+ <o:File HRef="image003.png"/>
+ <o:File HRef="image004.gif"/>
  <o:File HRef="image005.png"/>
  <o:File HRef="image006.gif"/>
  <o:File HRef="image007.png"/>
@@ -96,15 +98,9 @@
  <o:File HRef="image092.gif"/>
  <o:File HRef="image093.png"/>
  <o:File HRef="image094.gif"/>
- <o:File HRef="image095.png"/>
- <o:File HRef="image096.gif"/>
- <o:File HRef="image097.png"/>
- <o:File HRef="image098.gif"/>
- <o:File HRef="image099.jpg"/>
- <o:File HRef="image100.png"/>
- <o:File HRef="image101.gif"/>
- <o:File HRef="image102.jpg"/>
- <o:File HRef="image103.jpg"/>
+ <o:File HRef="image095.jpg"/>
+ <o:File HRef="image096.png"/>
+ <o:File HRef="image097.gif"/>
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
