@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](www.baidu.com) and ![Image](src)
 ```
-
+[Drmo手册](index.htm)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
