@@ -1,7 +1,7 @@
 ## 青航伟略
 
 
-[Drmo手册](使用手册/Drmo使用手册.htm)
+[Drmo手册](index.htm)
 [Drmo官网](Doc1.htm)
 
 
